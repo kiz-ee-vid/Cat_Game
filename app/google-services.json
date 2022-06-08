@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983361878217",
+    "firebase_url": "https://feedthecatty-default-rtdb.firebaseio.com",
+    "project_id": "feedthecatty",
+    "storage_bucket": "feedthecatty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983361878217:android:5382726e411b9f576c3518",
+        "android_client_info": {
+          "package_name": "com.example.lab_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983361878217-up5tjof19506v3dsth2arsm4qv3vs16m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcM18YqGzKZBVSu1Rj7Ka-YydvMnsq0h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983361878217-up5tjof19506v3dsth2arsm4qv3vs16m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

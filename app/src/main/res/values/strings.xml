@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FeedCat</string>
+    <string name="feed">FEED</string>
+    <string name="about">About</string>
+    <string name="feedthecat">FeedTheCat</string>
+    <string name="share">Share</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="records">Records</string>
+    <string name="date">Date</string>
+    <string name="score">Score</string>
+    <string name="save">Save</string>
+    <string name="FirstInformation">This application was created by Kizeev Ilya, 951002.</string>
+    <string name="InfoPageButton">The button you just pressed, here you can find information about the game.</string>
+    <string name="RecordsButton">By pressing this button, information about the records is displayed.</string>
+    <string name="ShareButton">By pressing this button, you can post the current result to the social network.</string>
+    <string name="SaveButton">By pressing this button, you can save you result.</string>
+    <string name="ScoreInformation">The goal of this game is to score as many points as possible. You score increases with the press of a button "FEED".</string>
+    <string name="ButtonInformation">You score is displayed in the field "Satiety"</string>
+
+</resources>
