@@ -30,9 +30,9 @@
 
 ## СКРИНЫ:
 
-![screen1](https://user-images.githubusercontent.com/79372028/181863185-1c040997-9ac5-42f5-88bf-a8605265d7d5.png)
-![screen2](https://user-images.githubusercontent.com/79372028/181863193-aa96ba60-d347-4c68-8ec9-08708baa09f5.png)
-![screen3](https://user-images.githubusercontent.com/79372028/181863196-3ade12d4-7e9e-4083-a368-1811d12f7b39.png)
+![screenshot1](https://user-images.githubusercontent.com/79372028/181865397-1add4650-d9f5-4443-af1a-4e2c19980992.png)
+![screenshot2](https://user-images.githubusercontent.com/79372028/181865399-69341542-ae76-45b3-83fa-fb1a1e541df9.png)
+![screenshot3](https://user-images.githubusercontent.com/79372028/181865401-3cee6aa0-b681-49c1-b7f5-d242d1339d0f.png)
 
 
 
