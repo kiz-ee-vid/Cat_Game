@@ -17,5 +17,6 @@
     <string name="SaveButton">By pressing this button, you can save you result.</string>
     <string name="ScoreInformation">The goal of this game is to score as many points as possible. You score increases with the press of a button "FEED".</string>
     <string name="ButtonInformation">You score is displayed in the field "Satiety"</string>
+    <string name="satiety">Satiety:</string>
 
 </resources>
